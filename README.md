@@ -12,4 +12,5 @@ To run the script you have to install `Xcodeproj` and `colorize` gems
     sudo gem install Xcodeproj
     sudo gem install colorize
 
-Then launch the ruby script and follow the steps
+Then open the `rb` file and set the `blacklist` array, if you want.
+Now launch the ruby script and follow the steps
