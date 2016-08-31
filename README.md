@@ -9,7 +9,7 @@ This script will add reference to the missing file in a target. Only one thing, 
 
 To run the script you have to install `Xcodeproj` and `colorize` gems
 
-    sudo gem install Xcodeproj
+    sudo gem install xcodeproj
     sudo gem install colorize
 
 Then open the `rb` file and set the `blacklist` array, if you want.
